@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus_Task_2", "Otus_Task_2\Otus_Task_2.csproj", "{A7F41EE0-9ED6-49D6-886A-FC4CB855C93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{95071726-0B09-4FB8-9A4A-9B1DF256A08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F41EE0-9ED6-49D6-886A-FC4CB855C93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F41EE0-9ED6-49D6-886A-FC4CB855C93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F41EE0-9ED6-49D6-886A-FC4CB855C93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F41EE0-9ED6-49D6-886A-FC4CB855C93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95071726-0B09-4FB8-9A4A-9B1DF256A08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95071726-0B09-4FB8-9A4A-9B1DF256A08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95071726-0B09-4FB8-9A4A-9B1DF256A08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95071726-0B09-4FB8-9A4A-9B1DF256A08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
